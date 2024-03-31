@@ -61,7 +61,7 @@ const styles = StyleSheet.create({
     justifyContent: 'flex-end',
   },
   title: {
-    color: Color.white,
+    color: Color.orange,
     fontSize: 50,
     fontWeight: 'bold',
     marginBottom: 20,
@@ -70,7 +70,7 @@ const styles = StyleSheet.create({
     flex: 5,
   },
   headline: {
-    color: Color.white,
+    color: Color.orange,
     fontSize: 17,
     fontWeight: '700',
   },
